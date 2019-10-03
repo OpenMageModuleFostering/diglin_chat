@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Official Magento Extension to integrate into your Magento shop the Zopim Chat service. Customize the chat per store view.
